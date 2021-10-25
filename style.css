@@ -1,0 +1,9 @@
+canvas{
+    border: 10px ridge gray;
+}
+.v{
+    border-left: blue dotted 10px;
+    height: 450px;
+    margin-left: 645px;
+    margin-top: 60px;
+}
